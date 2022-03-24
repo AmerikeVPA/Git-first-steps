@@ -2,7 +2,7 @@
 
 Trabajo de segundo parcial para la materia de Sistemas Operativos y Redes.
 
-Se creara una página de portafolio utilizando la herramienta de Gatsby. 
+Se creara una página de portafolio utilizando la herramienta de [**_Gatsby_**](https://jamstack.org/generators/gatsby/).
 
 ## Vic Piña 🍍
 | _Info de contacto_ | |
