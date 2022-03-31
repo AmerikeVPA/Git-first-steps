@@ -1,0 +1,48 @@
+commit 06e592869179c2851b509213b2deb69d8447e490
+Author: Vic Piña <vicpanzu7@gmail.com>
+Date:   Thu Mar 24 12:01:40 2022 -0600
+
+    Gatsby jamstack link
+
+commit 4086fcc9adb20cf2a092d08fad483d2e2919c847
+Author: Vic Piña <vicpanzu7@gmail.com>
+Date:   Thu Mar 24 11:59:22 2022 -0600
+
+    README Update
+
+commit 5a83b20db84ac72e17a679b49716f457c7f205d2
+Merge: 87107b7 1a27fcc
+Author: VicPina <47024323+VicPina@users.noreply.github.com>
+Date:   Tue Mar 22 12:49:39 2022 -0600
+
+    Merge pull request #1 from AmerikeVPA/add-license-1
+    
+    Create LICENSE
+
+commit 1a27fccdd6f313314e55b8f62dca65d449cc83a2
+Author: VicPina <47024323+VicPina@users.noreply.github.com>
+Date:   Tue Mar 22 12:47:43 2022 -0600
+
+    Create LICENSE
+    
+    MIT License addition
+
+commit 87107b7b66ad43988755acc4287b2ef2aab1cee1
+Author: VicPina <47024323+VicPina@users.noreply.github.com>
+Date:   Tue Mar 22 12:43:44 2022 -0600
+
+    Create .gitignore
+    
+    Node template
+
+commit 00a431041ac8a72ec44ba4fd9fb097bf47eaea01
+Author: Vic Piña <vicpanzu7@gmail.com>
+Date:   Tue Mar 22 12:40:55 2022 -0600
+
+    Itch link update
+
+commit 6f370d2d9c8de91de304ba077338cd0025e68d6d
+Author: Vic Piña <vicpanzu7@gmail.com>
+Date:   Tue Mar 22 12:25:03 2022 -0600
+
+    Primer commit desde terminal
