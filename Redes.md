@@ -42,4 +42,16 @@ Una red se compone de la conexión entre un servidor y sus clientes para compart
 | | | | |
 | --- | --- | --- | --- |
 | Bus | Anillo | Estrella | Malla |
-| [Red Bus](https://raw.githubusercontent.com/AmerikeVPA/Git-first-steps/Redes/Media/Bus.jpg) | [Red Anillo](link) | [Red Estrella](link) | [Red Malla](link) |
+| [Red Bus](https://raw.githubusercontent.com/AmerikeVPA/Git-first-steps/Redes/Media/Bus.jpg) | [Red Anillo](https://raw.githubusercontent.com/AmerikeVPA/Git-first-steps/Redes/Media/Netzwerktopologie_Ring.png) | [Red Estrella](https://raw.githubusercontent.com/AmerikeVPA/Git-first-steps/Redes/Media/Netzwerktopologie_Stern.png) | [Red Malla](https://raw.githubusercontent.com/AmerikeVPA/Git-first-steps/Redes/Media/malla.png) |
+| Sistemas conectados en serie de lineal donde se ven afectados por su estado de conexión individual. | Sistemas conectados en ciclo entre ellos, igualmente afectados por el estado individual. | Red concentrada donde los sistemas se conectan a un enrutador y son independientres de los otros. |  Cada sistema tiene conexiones independientes a los demas donde no se ven afectados entre si. |
+| |  |  |  |
+
+#### Área de alcanse
+
+[LANtoWAN]{}
+
+| | | | | |
+| --- | --- | --- | --- | --- |
+| LAN (Local Area Network) | WLAN (Wireless Area Network) | MAN (Metropolitan Area Network) | WAN (Wide Area Network) | SAN (Storage Area Network) |
+| Red local comunmente utilizada en hogares y conecta los sistemas por medio de cables. | Red inalámbrica que por medio de un enrutador conecta los sistemas. | Red formada con otras redes locales que suele usarse en oficinas o escuelas. | Red relativamente global que utiliza satelites para conectarse con los clientes. | Red utilizada para almacenar o accedera datos de forma remota sin estar directamente enlazado con el sistema operativo de la red. |
+| | | | | |
