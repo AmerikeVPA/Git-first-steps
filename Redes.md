@@ -48,7 +48,7 @@ Una red se compone de la conexión entre un servidor y sus clientes para compart
 
 #### Área de alcanse
 
-[LANtoWAN]{}
+[LANtoWAN](https://raw.githubusercontent.com/AmerikeVPA/Git-first-steps/Redes/Media/WAN-vs-LAN.gif)
 
 | | | | | |
 | --- | --- | --- | --- | --- |
